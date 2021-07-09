@@ -45,7 +45,7 @@
 
 <h2> Connect with me</h2>
 <a href = 'https://www.linkedin.com/in/ezequiel-neves-796070144'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.github.com/nbezequiel'>&nbsp; <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href = '#'>&nbsp; <img width = '32px' align= 'center' src="https://portal.ifba.edu.br/barreiras/imagens-campus-barreiras/icon-email.png/@@images/2272be23-02eb-43ca-9fad-f6fa02970ba3.png"/>  ezequielneves011@hotmail.com</a> 
 
 <br>
 <h2> Stuff I worked on last week </h2>
