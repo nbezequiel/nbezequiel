@@ -15,7 +15,7 @@
 
 - I’m 22 years old.
 
-- I’m a student of Infomation Systems at Universidade Presbiteriana Mackenzie
+- I’m an Infomation Systems student at Universidade Presbiteriana Mackenzie
 
 - I’m currently working as a Software Developer at Iteris Consultoria e Software
 
