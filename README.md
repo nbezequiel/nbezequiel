@@ -1,6 +1,3 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://free4kwallpapers.com/uploads/originals/2020/05/02/morgan-codes-wallpaper.png" alt="cover" />
-</div>
 
 <h1> Hello Fellow < Developers/ >! </h1>
 <p align='center'>
