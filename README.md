@@ -12,9 +12,9 @@
 
 - I’m 22 years old.
 
-- I’m an Infomation Systems student at Universidade Presbiteriana Mackenzie
+- I’m currently an Infomation Systems student.
 
-- I’m currently working as a Software Developer at Iteris Consultoria e Software
+- I work as a Software Developer.
 
 - I’m currently learning: Spring Cloud, AWS and Security patterns.
 
