@@ -56,6 +56,6 @@
 
 
  
-<h2> Most Used Languages </h2>
+<h2>  </h2>
 <p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbezequiel&show_icons=true&locale=en&layout=compact" alt="nbezequiel" /></p>
 <footer> </footer>
