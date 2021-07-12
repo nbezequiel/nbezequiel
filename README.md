@@ -16,8 +16,6 @@
 
 - I work as a Software Developer.
 
-- I’m currently learning: Spring Cloud, AWS and Security patterns.
-
 
   <br>
 <h2>Languages and Tools:</h2>
