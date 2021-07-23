@@ -40,6 +40,7 @@
 
 <h2> Connect with me</h2>
 <a href = 'https://www.linkedin.com/in/ezequiel-neves-796070144'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+  <br/>
  <p>ezequielneves011@hotmail.com</a> </p>
 
 <br>
