@@ -43,11 +43,6 @@
   <br/>
  <p>ezequielneves011@hotmail.com</a> </p>
 
-<br>
-<h2> Stuff I worked on last week </h2>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=@nbezequiel&compact=True&v=2"/>
-</a>
 
 
 <h2> My GitHub Stats </h2>
