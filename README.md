@@ -44,12 +44,3 @@
  <p>ezequielneves011@hotmail.com</a> </p>
 
 
-
-<h2> My GitHub Stats </h2>
- <p><img src="https://github-readme-stats.vercel.app/api?username=nbezequiel&show_icons=true&locale=en" alt="nbezequiel" /></p>
-
-
- 
-<h2>  </h2>
-<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=nbezequiel&show_icons=true&locale=en&layout=compact" alt="nbezequiel" /></p>
-<footer> </footer>
